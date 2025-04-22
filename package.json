@@ -9,8 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "path-to-regexp": "^8.2.0"
-  }
+  "description": ""
 }
